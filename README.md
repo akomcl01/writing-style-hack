@@ -12,9 +12,7 @@ Train AI to write like you — across newsletters, X posts, LinkedIn, and YouTub
 
 ---
 
-## Get the Files + Join the Community
-
-**Want to copy this for yourself?** Comment "GUIDE" on the video and I'll send you all the project files!
+## Want More?
 
 | Resource | Link |
 |----------|------|
